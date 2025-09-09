@@ -55,6 +55,9 @@
 ![HTML+CSS](https://img.shields.io/badge/Practicando-HTML%20%2B%20CSS-e34f26?logo=html5&logoColor=white)
 ![Universidad](https://img.shields.io/badge/Cursando-Programación%20Informática-orange)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div id="contact">
 <p align="center">
   <img src="./assets/divisor.png" alt="divisor" width="500"/>
