@@ -7,6 +7,11 @@
 
 <h3>Estudiante en Programación Informática | Junior Developer</h3>
 
+<p align="center">
+  <img src="./assets/divisor.png" alt="divisor" width="500"/>
+</p>
+
+
 </div>
 
 <!-- sobre mi -->
@@ -21,6 +26,10 @@
     <li>🤝 Abierta a colaborar y aprender en equipo. </li>
     <li>🌎 Argentina-chilena, curiosa por la tecnología y el aprendizaje constante. </li>
 </ul>
+
+<p align="center">
+  <img src="./assets/divisor.png" alt="divisor" width="500"/>
+</p>
 
 </div>
 <!-- tech stack -->
@@ -48,9 +57,14 @@
 <h4>Contáctame</h4>
 <p align="left">
 <a href="https://linkedin.com/in/martinaccwilich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinaccwilich" height="30" width="40" /></a>
+
 </p>
 
 <a></a>
+
+<p align="center">
+  <img src="./assets/divisor.png" alt="divisor" width="500"/>
+</p>
 </div>
 
 
