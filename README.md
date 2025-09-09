@@ -1,5 +1,5 @@
 
-<a href="#english_presentation">EN version</a>
+<!--<a href="#english_presentation">EN version</a> -->
 
 <div align="center">
 
@@ -17,6 +17,7 @@
 <!-- sobre mi -->
 <div id="sobre-mi">
 <h4>Sobre mi🙋‍♀️</h4>
+<p>Mi nombre es Martina :</p>
 <ul>
     <li>💻 Junior Developer en formación (Front-end).  </li>
     <li> 📚 Estudiando Programación Informática en la universidad.</li>
@@ -32,6 +33,7 @@
 </p>
 
 </div>
+
 <!-- tech stack -->
 <div id="tech-stack" align="center">
 
@@ -41,7 +43,8 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</p>
 
 </div>
 
@@ -53,6 +56,9 @@
 ![Universidad](https://img.shields.io/badge/Cursando-Programación%20Informática-orange)
 
 <div id="contact">
+<p align="center">
+  <img src="./assets/divisor.png" alt="divisor" width="500"/>
+</p>
 
 <h4>Contáctame</h4>
 <p align="left">
@@ -60,11 +66,7 @@
 
 </p>
 
-<a></a>
 
-<p align="center">
-  <img src="./assets/divisor.png" alt="divisor" width="500"/>
-</p>
 </div>
 
 
