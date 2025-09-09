@@ -56,6 +56,75 @@
 ![Universidad](https://img.shields.io/badge/Cursando-Programación%20Informática-orange)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 25 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 14 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 1 Public Repository 
+ > 
+> 🔑 0 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                3 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+🌃 Evening                7 commits           █████████░░░░░░░░░░░░░░░░   35.00 % 
+🌙 Night                  10 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   7 commits           █████████░░░░░░░░░░░░░░░░   35.00 % 
+Tuesday                  3 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Wednesday                10 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Argentina/Buenos_Aires
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Wollok** 
+
+```text
+Wollok                   1 repo              █████████████████████████   100.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/martu37/martu37/main/assets/bar_graph.png)
+
+
+ Last Updated on 09/09/2025 21:14:07 UTC
 <!--END_SECTION:waka-->
 
 <div id="contact">
