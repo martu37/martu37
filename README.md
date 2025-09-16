@@ -58,10 +58,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON       39 mins         ssssssssssuhhhhhhhhhhhhhh   42.13 %
-Python     39 mins         ssssssssssuhhhhhhhhhhhhhh   42.10 %
-Markdown   13 mins         sssuhhhhhhhhhhhhhhhhhhhhh   14.20 %
-Text       1 min           uhhhhhhhhhhhhhhhhhhhhhhhh   01.57 %
+JSON       39 mins         ██████████▓░░░░░░░░░░░░░░   42.13 %
+Python     39 mins         ██████████▓░░░░░░░░░░░░░░   42.10 %
+Markdown   13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
+Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
