@@ -9,7 +9,11 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: "hours"
+          BLOCKS: "hours,days"        # muestra actividad por hora y por día
+          SHOW_TIME: true              # opcional: muestra tiempo total en cada bloque
+          SHOW_TOTAL: false            # opcional: quita resumen total si no lo querés
+          STOP_AT_OTHER: true          # opcional: ignora lenguajes con muy poco tiempo
+
