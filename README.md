@@ -16,8 +16,7 @@
 
 <!-- sobre mi -->
 <div id="sobre-mi">
-<h4>Sobre mi🙋‍♀️</h4>
-<p>Mi nombre es Martina :</p>
+<h4>🙋‍♀️Mi nombre es Martina :</h4>
 <ul>
     <li>💻 Junior Developer en formación (Front-end).  </li>
     <li> 📚 Estudiando Programación Informática en la universidad.</li>
@@ -54,6 +53,10 @@
 ![CSS](https://img.shields.io/badge/Estudio-CSS-2965f1?logo=css3&logoColor=white)
 ![HTML+CSS](https://img.shields.io/badge/Practicando-HTML%20%2B%20CSS-e34f26?logo=html5&logoColor=white)
 ![Universidad](https://img.shields.io/badge/Cursando-Programación%20Informática-orange)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <div id="contact">
 <p align="center">
