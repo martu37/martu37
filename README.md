@@ -54,9 +54,18 @@
 ![HTML+CSS](https://img.shields.io/badge/Practicando-HTML%20%2B%20CSS-e34f26?logo=html5&logoColor=white)
 ![Universidad](https://img.shields.io/badge/Cursando-Programación%20Informática-orange)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
+<!--START_SECTION:waka-->
+
+```txt
+JSON       39 mins         ███████▒░░░░░░░░░░░░░░░░░   29.73 %
+Python     39 mins         ███████▒░░░░░░░░░░░░░░░░░   29.71 %
+HTML       39 mins         ███████▒░░░░░░░░░░░░░░░░░   29.42 %
+Markdown   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+```
+
+<!--END_SECTION:waka-->
 
 <div id="contact">
 <p align="center">
