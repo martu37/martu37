@@ -78,6 +78,9 @@ Text       1 min           ▒░░░░░░░░░░░░░░░░�
 
 </p>
 
+<p align="center">
+  <img src="./assets/GifCompu2.gif" alt="GIF animado" width="500" height="auto"/>
+</p>
 
 </div>
 
