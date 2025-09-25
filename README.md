@@ -69,10 +69,10 @@
 <a href="https://linkedin.com/in/martinaccwilich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinaccwilich" height="30" width="40" /></a>
 
 </p>
-
-<p align="center">
-  <img src="./assets/GifCompu2.gif" alt="GIF animado" width="500" height="auto"/>
+<p align="right">
+  <img src="./assets/GifCompu2-ezgif.com-crop.gif" alt="GIF animado" width="500" height="auto"/>
 </p>
+
 
 </div>
 
