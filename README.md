@@ -57,6 +57,12 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+HTML    46 mins         ████████████████████████▒   97.39 %
+Other   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+CSS     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="right">
