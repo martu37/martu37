@@ -65,9 +65,7 @@ CSS     0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<p align="right">
-  <img src="./assets/GifCompu2-ezgif.com-crop.gif" alt="GIF animado" width="500" height="auto"/>
-</p>
+
 
 <div id="contact">
 <p align="center">
@@ -77,10 +75,11 @@ CSS     0 secs          ░░░░░░░░░░░░░░░░░░�
 <h4>Contáctame</h4>
 <p align="left">
 <a href="https://linkedin.com/in/martinaccwilich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinaccwilich" height="30" width="40" /></a>
-
 </p>
 
-
+<p align="center">
+  <img src="./assets/GifCompu2-ezgif.com-crop.gif" alt="GIF animado" width="500" height="auto"/>
+</p>
 
 </div>
 
