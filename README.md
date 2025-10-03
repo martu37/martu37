@@ -45,6 +45,14 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
+<h4>Tools</h4>
+<p>
+<a href="https://code.visualstudio.com/" target="_blank" rel="nonreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" witdth="40" height="40"></a>
+<a href="https://git-scm.com/" target="_blank" rel="nonreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" witdth="40" height="40"></a>
+<a href="https://github.com/" target="_blank" rel="nonreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" witdth="40" height="40"></a>
+<a href="" target="_blank" rel="nonreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt="Arduino IDE" witdth="40" height="40"></a>
+</p>
+
 </div>
 
 <h4>🚀 Proyectos y estudios en curso</h4>
