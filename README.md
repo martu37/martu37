@@ -3,7 +3,6 @@
 
 <div align="center">
 
-<h1>👋 ¡Bienvenid@!</h1>
 
 <h3>Estudiante en Programación Informática | Junior Developer</h3>
 
