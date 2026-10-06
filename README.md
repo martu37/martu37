@@ -15,16 +15,12 @@
 
 <!-- sobre mi -->
 <div id="sobre-mi">
-<h4>🙋‍♀️Mi nombre es Martina :</h4>
-<ul>
-    <li>💻 Junior Developer en formación (Front-end).  </li>
-    <li> 📚 Estudiando Programación Informática en la universidad.</li>
-    <li>🌱 Autodidacta: aprendiendo HTML, CSS, JavaScript y React.  </li>
-    <li>🚀 Buscando mi primera experiencia laboral en IT. </li>
-    <li>🔍 Me interesa crear proyectos simples, útiles y bien estructurados. </li>
-    <li>🤝 Abierta a colaborar y aprender en equipo. </li>
-    <li>🌎 Argentina-chilena, curiosa por la tecnología y el aprendizaje constante. </li>
-</ul>
+<h4>🙋‍♀️Soy martu:</h4>
+<p>Esto es un dump de mis experimentos y las cosas en las que ando. 💻 Hago páginas web por mi cuenta y sobrevivo a los proyectos de programación de la UNSAM.
+
+🎨 Me copa el arte digital y ando armando cosas que mezclan código con electrónica. 🔌 También hago de servicio técnico y revivo chatarra: si hay una compu o una tele rota, la desarmo y la arreglo (de celulares NO pregunten, no me meto).
+
+🌎 Mitad Arg, mitad Chi. 🌱 Autodidacta, siempre aprendiendo algo nuevo a mi ritmo y rompiendo cosas para ver cómo funcionan por adentro.</p>
 
 <p align="center">
   <img src="./assets/divisor.png" alt="divisor" width="500"/>
