@@ -4,7 +4,7 @@
 <div align="center">
 
 
-<h3>Estudiante en Programación Informática | Junior Developer</h3>
+<h3>Programación Informática | Junior Developer</h3>
 
 <p align="center">
   <img src="./assets/divisor.png" alt="divisor" width="500"/>
